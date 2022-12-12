@@ -5,4 +5,7 @@ public class CollectionTypes {
     specific order. The Queue interface is a buffer for objects with a notion of a “head”
     element that’s next in line for processing.
     */
+    public static void main(String[] args) {
+
+    }
 }

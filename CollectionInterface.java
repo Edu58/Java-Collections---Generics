@@ -41,4 +41,8 @@ public class CollectionInterface {
     Additionally, the methods addAll() , removeAll() , and containsAll() accept
     another Collection
      */
+
+    public static void main(String[] args) {
+
+    }
 }
